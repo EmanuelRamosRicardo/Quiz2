@@ -1,0 +1,27 @@
+.flexContenedor{
+    display: flex;
+}
+
+.divIzquierdo{
+    width: 70%;
+    align-items: center;
+}
+
+.divDerecho{
+    display: flex;
+    width: 30%;
+    align-items: center;
+}
+
+.centrar{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.flexContenedorCarrusel{
+    justify-content: space-between;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
